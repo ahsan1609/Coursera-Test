@@ -16,14 +16,15 @@ p {
 }
 
 
-div#container1, div#container2, div#container3 { 
+#container1, #container2, #container3 { 
 	background-color: grey;
 	width: 30%;
 	border: 3px solid black;
 	margin: 20px;
-	float: left;
-	position: relative;	
+	position: relative;
+	float: left;	
 }
+
 
 #chicken, #beef, #sushi {
 	font-size: 18px;
