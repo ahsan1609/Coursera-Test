@@ -23,10 +23,6 @@ p{
 
 }
 
-#container1, #container2, #container3 { 
-	width: 33.33%;
-	float: left;
-}
 
 #chicken, #beef, #sushi {
 	font-size: 18px;
